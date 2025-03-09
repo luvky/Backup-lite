@@ -1,0 +1,13 @@
+﻿<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
+	<Profiles>
+		<Profile Name="(Default)" />
+	</Profiles>
+	<Settings>
+		<Setting Name="SourcePath" Type="System.String" Scope="User">
+			<Value Profile="(Default)" />
+		</Setting>
+		<Setting Name="DestinationPath" Type="System.String" Scope="User">
+			<Value Profile="(Default)" />
+		</Setting>
+	</Settings>
+</SettingsFile>
