@@ -238,4 +238,8 @@ namespace WindowsFormsApp
             txtDestinationPath.Text = Properties.Settings.Default["DestinationPath"]?.ToString();
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 21c8675f2eed0d4c2847e9b8336e4838d5bfb9aa
